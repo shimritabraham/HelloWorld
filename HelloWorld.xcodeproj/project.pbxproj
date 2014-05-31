@@ -227,6 +227,7 @@
 				A997EB70191D10E60096CA90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

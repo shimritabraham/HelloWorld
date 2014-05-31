@@ -1,18 +1,12 @@
-//
-//  main.cpp
-//  HelloWorld
-//
-//  Created by Shimmi on 09-05-14.
-//  Copyright (c) 2014 sabraham. All rights reserved.
-//
+#include<iostream>
+#include<fstream>
+#include<string.h>
 
-#include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[])
+int main()
 {
-
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int x=6;
+    cout<<#x<<endl;
     return 0;
 }
-
