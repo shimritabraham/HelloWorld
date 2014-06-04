@@ -1,16 +1,14 @@
-#include<iostream>
-#include<fstream>
-#include<string.h>
+#include "webbrowser.h"
+#include "webbrowserbookmarks.h"
+#include <iostream>
 
 using namespace std;
 
-int main()
-{
-    int x=6;
-    cout<<x<<endl;
-    cout<<"Another sentence"<<endl;
+int main(){
+    WBS::CCat a;
+    cout<<a.itsName<<endl;
 
-//    adding a comment here
+
 
     return 0;
 }
